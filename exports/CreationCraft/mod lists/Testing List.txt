@@ -1,0 +1,14 @@
+---------------------------------------------------
+| Key:						   |
+|      Two tabs = dissabled for testing		   |
+|      One tab = just installed to test frame drop |
+|						   |
+ --------------------------------------------------
+
+
+		Chest Transporter (by CubeX2)
+		Uppers (by Vadis365)
+Inventory Pets (by Purplicious_Cow)
+	BiblioCraft (by JDSinclair)
+ArchitectureCraft - ElytraDev Version (by darkevilmac)
+Building Gadgets (by direwolf20)
